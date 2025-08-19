@@ -36,7 +36,8 @@ O sistema permite controlar clientes, veículos, ordens de serviço, equipes de 
 - OrdemServico N --- N Peça (via OS_Peça)  
 
 ## Diagrama Conceitual  
-Adicionar imagem aqui
+<img width="822" height="669" alt="image" src="https://github.com/user-attachments/assets/e5d0a4d0-c976-4374-8bbd-d866eb35821d" />
+
 
 ## Observações  
 - Algumas informações não estavam na narrativa original (como telefone do cliente ou modelo/ano do veículo), mas foram incluídas para enriquecer o modelo.  
