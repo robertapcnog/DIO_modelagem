@@ -44,4 +44,10 @@ O sistema permite controlar clientes, veículos, ordens de serviço, equipes de 
 - As tabelas associativas **OS_Serviço** e **OS_Peça** foram criadas porque uma OS pode ter vários serviços e várias peças.  
 
 
+## Tecnologias e Ferramentas
+
+- Ferramenta de modelagem: [draw.io](https://draw.io)
+- Repositório: GitHub
+
+
 
